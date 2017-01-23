@@ -1,39 +1,11 @@
-Big Picture by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Big Picture, a simple, single page responsive site template by HTML5 UP.
-
-So I've been on a single page kick as of late, partly because I'm lazy, but
-mostly because they kick ass for experimentation. In this case, Big Picture
-makes heavy use of my (tentatively named and soon to be released) "scrollgress"
-and "scrollwatch" jQuery plugins to pull off some interesting effects as you
-scroll around the page. In addition to said interesting effects, Big Picture
-also includes a nice lightbox-style gallery, styling for basic page elements,
-and thoroughly commented code for your editing pleasure (with instructions!
--- see below).
-
-Many thanks to my good friends Felicia Simion (ineedchemicalx.deviantart.com)
-and Michael Domaradzki (md.photomerchant.net) for allowing me to use their amazing
-photos in Big Picture's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT
-download and/or use any of Felicia's or Michael's work without their explicit
-permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
+Orlaith Shore Website by Joseph Corcoran, Eoin Buckley and Ruben Garcia Gamarra
+CS2105 | Information Systems Development Project
 
 Instructions:
 
 	Overview:
 
-		Being a single pager, Big Picture should be way simpler to work with than
-		some of the heavier stuff I've released in the past. In fact, aside from
+		Being a single pager, this page should be easy to work with. In fact, aside from
 		a main page <header> and <footer>, it's pretty much just a stack of "main"
 		<section> elements that follow the same basic pattern:
 
@@ -164,31 +136,19 @@ Instructions:
 
 
 Credits:
+	Team Work: Joseph Corcoran, Eoin Buckley, Ruben Garcia Gamarra
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"The Swallow Song"
-			"Mind is a clear stage"
-			"The Anonymous Red"
-			"The sparkling shell"
-			"Carry on"
-
-		Michael Domaradzki (md.photomerchant.net)
-			"Vine Country"
-			"Airchitecture II"
-			"Bent IX"
-			"Air Lounge"
-
+	Images:
+		Orlaith Shore
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (css3pie.com)
+		html5shiv.js 
 		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
-		jquery.poptrox (@ajlkn)
-		jquery.scrolly (@ajlkn)
-		jquery.scrollgress (@ajlkn)
+		jquery.poptrox 
+		jquery.scrolly 
+		jquery.scrollgress 
 		Skel (skel.io)
