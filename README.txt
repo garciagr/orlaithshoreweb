@@ -59,7 +59,7 @@ Instructions:
 
 	Lightbox Gallery:
 
- 		The actual gallery function is powered by my Poptrox plugin. For info on
+ 		The actual gallery function is powered by Poptrox plugin. For info on
  		how that works, go here: github.com/ajlkn/jquery.poptrox
 
 		Rows:
