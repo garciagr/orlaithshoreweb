@@ -115,8 +115,8 @@ Instructions:
 
 	Contact Form:
 
-		To get this working, place a script on your server to receive the form data, then
-		point the "action" attribute to it (eg. action="http://mydomain.tld/mail.php").
+		To get this working, we need to place a script on the server to receive the form data, then
+		point the "action" attribute to it (eg. action="http://orlaithshore.com/mail.php").
 		More on how it all works here: 1stwebdesigner.com/tutorials/custom-php-contact-forms
 
 
