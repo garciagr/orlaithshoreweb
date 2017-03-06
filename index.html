@@ -22,7 +22,7 @@
 						<li><a href="#two">Who I Am</a></li>
 						<li><a href="#work">My Work</a></li>
 						<li><a href="#contact">Contact</a></li>
-						li><a href="/booking">Bookings</a></li>
+						<li><a href="/booking">Bookings</a></li>
 						<li><a href="/blog">Blog</a></li>
 					</ul>
 				</nav>
@@ -106,15 +106,27 @@
 						<p>Fill the details below to contact me</p>
 					</header>
 					<div class="box">
-						<form method="post" action="index.php">
-							<div class="field half first"><input type="text" name="name" placeholder="Name" /></div>
-							<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-							<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
-							<label>*What is 2+2? (Anti-spam)</label>
-							<input name="human" placeholder="Type Here">
-							<ul class="actions">
-								<li><input type="submit" value="Send Message" /></li>
-							</ul>
+						<form action="mail.php" method="POST">
+							<p>Name</p> <input type="text" name="name">
+							<p>Email</p> <input type="text" name="email">
+							<p>Phone</p> <input type="text" name="phone">
+
+							
+
+							
+
+							
+
+							<p>Type</p>
+							<select name="type" size="1">
+							<option value="update">Information</option>
+							<option value="change">Call back</option>
+							<option value="addition">Booking queries</option>
+							</select>
+							<br />
+
+							<p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+							<input type="submit" value="Send"><input type="reset" value="Clear">
 						</form>
 					</div>
 				</div>
